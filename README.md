@@ -1,5 +1,6 @@
 開発用メモ<br>
-TOPページ：app/views/recipes/index.html.erb
+TOP：app/views/recipes/index.html.erb
+TOPのCSS：app/assets/stylesheets/recipes/index.css
 
 # アプリ名
 SpiceLife
